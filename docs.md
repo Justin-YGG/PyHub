@@ -23,6 +23,8 @@
 
 **`flask`** http://flask.pocoo.org/
 
+**`explore flask`** https://exploreflask.com/en/latest/
+
 **`tornado`** http://www.tornadoweb.org/en/stable/
 
 
